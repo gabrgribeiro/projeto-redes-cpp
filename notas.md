@@ -1,5 +1,8 @@
 # Notas
 
+## Dia 1: Instalações
+- Instalação do `WSL` (`Windows Subsystem for Linux`) via **PowerShell**.
+
 ## Dia 2: Shell
 - O comando `cd` permite alterar de diretório.
 - `ls` ou `dir` listam o conteúdo do diretório.
